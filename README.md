@@ -17,12 +17,18 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-seungri&layout=compact&theme=merko&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
+
+🌱SNS & Blog🌱
+
 <a href="https://www.instagram.com/k_seungri/">
     <img 
         src="http://img.shields.io/badge/-Instagram-33333?style=flat&logo=Instagram&link=https://www.instagram.com/k_seungri/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<a href="https://k-seungri.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-33333?style=flat&logo=Blogger&logoColor=white"/>
+</a>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -13,12 +13,12 @@
 Here are some ideas to get you started:
 -->
 
-![k-seungri's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-seungri&show_icons=true&theme=merko)
+![k-seungri's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-seungri&show_icons=true&theme=merko) <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-seungri&layout=compact&theme=merko&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-seungri&layout=compact&theme=merko&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 
-🌱SNS & Blog🌱
+🌱SNS & Blog🌱 <br>
 
 <a href="https://www.instagram.com/k_seungri/">
     <img 
